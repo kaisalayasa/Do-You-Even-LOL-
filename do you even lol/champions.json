@@ -1,0 +1,3654 @@
+{
+    "Aatrox": {
+        "Passive": {
+            "name": "Deathbringer Stance",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Aatrox_Passive.png"
+        },
+        "Q": {
+            "name": "The Darkin Blade",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/AatroxQ.png"
+        },
+        "W": {
+            "name": "Infernal Chains",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/AatroxW.png"
+        },
+        "E": {
+            "name": "Umbral Dash",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/AatroxE.png"
+        },
+        "R": {
+            "name": "World Ender",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/AatroxR.png"
+        }
+    },
+    "Ahri": {
+        "Passive": {
+            "name": "Essence Theft",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Ahri_SoulEater2.png"
+        },
+        "Q": {
+            "name": "Orb of Deception",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/AhriQ.png"
+        },
+        "W": {
+            "name": "Fox-Fire",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/AhriW.png"
+        },
+        "E": {
+            "name": "Charm",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/AhriE.png"
+        },
+        "R": {
+            "name": "Spirit Rush",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/AhriR.png"
+        }
+    },
+    "Akali": {
+        "Passive": {
+            "name": "Assassin's Mark",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Akali_P.png"
+        },
+        "Q": {
+            "name": "Five Point Strike",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/AkaliQ.png"
+        },
+        "W": {
+            "name": "Twilight Shroud",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/AkaliW.png"
+        },
+        "E": {
+            "name": "Shuriken Flip",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/AkaliE.png"
+        },
+        "R": {
+            "name": "Perfect Execution",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/AkaliR.png"
+        }
+    },
+    "Akshan": {
+        "Passive": {
+            "name": "Dirty Fighting",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/akshan_p.png"
+        },
+        "Q": {
+            "name": "Avengerang",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/AkshanQ.png"
+        },
+        "W": {
+            "name": "Going Rogue",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/AkshanW.png"
+        },
+        "E": {
+            "name": "Heroic Swing",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/AkshanE.png"
+        },
+        "R": {
+            "name": "Comeuppance",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/AkshanR.png"
+        }
+    },
+    "Alistar": {
+        "Passive": {
+            "name": "Triumphant Roar",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Alistar_E.png"
+        },
+        "Q": {
+            "name": "Pulverize",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/Pulverize.png"
+        },
+        "W": {
+            "name": "Headbutt",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/Headbutt.png"
+        },
+        "E": {
+            "name": "Trample",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/AlistarE.png"
+        },
+        "R": {
+            "name": "Unbreakable Will",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/FerociousHowl.png"
+        }
+    },
+    "Ambessa": {
+        "Passive": {
+            "name": "Drakehound's Step",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/passive/Icon_Ambessa_Passive.Domina.png"
+        },
+        "Q": {
+            "name": "Cunning Sweep / Sundering Slam",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/spell/AmbessaQ.png"
+        },
+        "W": {
+            "name": "Repudiation",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/spell/AmbessaW.png"
+        },
+        "E": {
+            "name": "Lacerate",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/spell/AmbessaE.png"
+        },
+        "R": {
+            "name": "Public Execution",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/spell/AmbessaR.png"
+        }
+    },
+    "Amumu": {
+        "Passive": {
+            "name": "Cursed Touch",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Amumu_Passive.png"
+        },
+        "Q": {
+            "name": "Bandage Toss",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/BandageToss.png"
+        },
+        "W": {
+            "name": "Despair",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/AuraofDespair.png"
+        },
+        "E": {
+            "name": "Tantrum",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/Tantrum.png"
+        },
+        "R": {
+            "name": "Curse of the Sad Mummy",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/CurseoftheSadMummy.png"
+        }
+    },
+    "Anivia": {
+        "Passive": {
+            "name": "Rebirth",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Anivia_P.png"
+        },
+        "Q": {
+            "name": "Flash Frost",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/FlashFrost.png"
+        },
+        "W": {
+            "name": "Crystallize",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/Crystallize.png"
+        },
+        "E": {
+            "name": "Frostbite",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/Frostbite.png"
+        },
+        "R": {
+            "name": "Glacial Storm",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/GlacialStorm.png"
+        }
+    },
+    "Annie": {
+        "Passive": {
+            "name": "Pyromania",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Annie_Passive.png"
+        },
+        "Q": {
+            "name": "Disintegrate",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/AnnieQ.png"
+        },
+        "W": {
+            "name": "Incinerate",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/AnnieW.png"
+        },
+        "E": {
+            "name": "Molten Shield",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/AnnieE.png"
+        },
+        "R": {
+            "name": "Summon: Tibbers",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/AnnieR.png"
+        }
+    },
+    "Aphelios": {
+        "Passive": {
+            "name": "The Hitman and the Seer",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/ApheliosP.png"
+        },
+        "Q": {
+            "name": "Weapon Abilites",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ApheliosQ_ClientTooltipWrapper.png"
+        },
+        "W": {
+            "name": "Phase",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ApheliosW.png"
+        },
+        "E": {
+            "name": "Weapon Queue System",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ApheliosE_ClientTooltipWrapper.png"
+        },
+        "R": {
+            "name": "Moonlight Vigil",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ApheliosR.png"
+        }
+    },
+    "Ashe": {
+        "Passive": {
+            "name": "Frost Shot",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Ashe_P.png"
+        },
+        "Q": {
+            "name": "Ranger's Focus",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/AsheQ.png"
+        },
+        "W": {
+            "name": "Volley",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/Volley.png"
+        },
+        "E": {
+            "name": "Hawkshot",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/AsheSpiritOfTheHawk.png"
+        },
+        "R": {
+            "name": "Enchanted Crystal Arrow",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/EnchantedCrystalArrow.png"
+        }
+    },
+    "Aurelion Sol": {
+        "Passive": {
+            "name": "Cosmic Creator",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/AurelionSolP.png"
+        },
+        "Q": {
+            "name": "Breath of Light",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/AurelionSolQ.png"
+        },
+        "W": {
+            "name": "Astral Flight",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/AurelionSolW.png"
+        },
+        "E": {
+            "name": "Singularity",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/AurelionSolE.png"
+        },
+        "R": {
+            "name": "Falling Star / The Skies Descend",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/AurelionSolR.png"
+        }
+    },
+    "Aurora": {
+        "Passive": {
+            "name": "Spirit Abjuration",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/AuroraPassive.Aurora.png"
+        },
+        "Q": {
+            "name": "Twofold Hex",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/AuroraQ.png"
+        },
+        "W": {
+            "name": "Across the Veil",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/AuroraW.png"
+        },
+        "E": {
+            "name": "The Weirding",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/AuroraE.png"
+        },
+        "R": {
+            "name": "Between Worlds",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/AuroraR.png"
+        }
+    },
+    "Azir": {
+        "Passive": {
+            "name": "Shurima's Legacy",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Azir_Passive.png"
+        },
+        "Q": {
+            "name": "Conquering Sands",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/AzirQWrapper.png"
+        },
+        "W": {
+            "name": "Arise!",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/AzirW.png"
+        },
+        "E": {
+            "name": "Shifting Sands",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/AzirEWrapper.png"
+        },
+        "R": {
+            "name": "Emperor's Divide",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/AzirR.png"
+        }
+    },
+    "Bard": {
+        "Passive": {
+            "name": "Traveler's Call",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Bard_Passive.png"
+        },
+        "Q": {
+            "name": "Cosmic Binding",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/BardQ.png"
+        },
+        "W": {
+            "name": "Caretaker's Shrine",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/BardW.png"
+        },
+        "E": {
+            "name": "Magical Journey",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/BardE.png"
+        },
+        "R": {
+            "name": "Tempered Fate",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/BardR.png"
+        }
+    },
+    "Bel'Veth": {
+        "Passive": {
+            "name": "Death in Lavender",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Belveth_Passive.png"
+        },
+        "Q": {
+            "name": "Void Surge",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/BelvethQ.png"
+        },
+        "W": {
+            "name": "Above and Below",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/BelvethW.png"
+        },
+        "E": {
+            "name": "Royal Maelstrom",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/BelvethE.png"
+        },
+        "R": {
+            "name": "Endless Banquet",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/BelvethR.png"
+        }
+    },
+    "Blitzcrank": {
+        "Passive": {
+            "name": "Mana Barrier",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Blitzcrank_ManaBarrier.png"
+        },
+        "Q": {
+            "name": "Rocket Grab",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/RocketGrab.png"
+        },
+        "W": {
+            "name": "Overdrive",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/Overdrive.png"
+        },
+        "E": {
+            "name": "Power Fist",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/PowerFist.png"
+        },
+        "R": {
+            "name": "Static Field",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/StaticField.png"
+        }
+    },
+    "Brand": {
+        "Passive": {
+            "name": "Blaze",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/BrandP.png"
+        },
+        "Q": {
+            "name": "Sear",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/BrandQ.png"
+        },
+        "W": {
+            "name": "Pillar of Flame",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/BrandW.png"
+        },
+        "E": {
+            "name": "Conflagration",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/BrandE.png"
+        },
+        "R": {
+            "name": "Pyroclasm",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/BrandR.png"
+        }
+    },
+    "Braum": {
+        "Passive": {
+            "name": "Concussive Blows",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Braum_Passive.png"
+        },
+        "Q": {
+            "name": "Winter's Bite",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/BraumQ.png"
+        },
+        "W": {
+            "name": "Stand Behind Me",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/BraumW.png"
+        },
+        "E": {
+            "name": "Unbreakable",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/BraumE.png"
+        },
+        "R": {
+            "name": "Glacial Fissure",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/BraumRWrapper.png"
+        }
+    },
+    "Briar": {
+        "Passive": {
+            "name": "Crimson Curse",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/BriarP.png"
+        },
+        "Q": {
+            "name": "Head Rush",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/BriarQ.png"
+        },
+        "W": {
+            "name": "Blood Frenzy / Snack Attack",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/BriarW.png"
+        },
+        "E": {
+            "name": "Chilling Scream",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/BriarE.png"
+        },
+        "R": {
+            "name": "Certain Death",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/BriarR.png"
+        }
+    },
+    "Caitlyn": {
+        "Passive": {
+            "name": "Headshot",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Caitlyn_Headshot.png"
+        },
+        "Q": {
+            "name": "Piltover Peacemaker",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/CaitlynQ.png"
+        },
+        "W": {
+            "name": "Yordle Snap Trap",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/CaitlynW.png"
+        },
+        "E": {
+            "name": "90 Caliber Net",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/CaitlynE.png"
+        },
+        "R": {
+            "name": "Ace in the Hole",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/CaitlynR.png"
+        }
+    },
+    "Camille": {
+        "Passive": {
+            "name": "Adaptive Defenses",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Camille_Passive.png"
+        },
+        "Q": {
+            "name": "Precision Protocol",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/CamilleQ.png"
+        },
+        "W": {
+            "name": "Tactical Sweep",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/CamilleW.png"
+        },
+        "E": {
+            "name": "Hookshot",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/CamilleE.png"
+        },
+        "R": {
+            "name": "The Hextech Ultimatum",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/CamilleR.png"
+        }
+    },
+    "Cassiopeia": {
+        "Passive": {
+            "name": "Serpentine Grace",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Cassiopeia_Passive.png"
+        },
+        "Q": {
+            "name": "Noxious Blast",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/CassiopeiaQ.png"
+        },
+        "W": {
+            "name": "Miasma",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/CassiopeiaW.png"
+        },
+        "E": {
+            "name": "Twin Fang",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/CassiopeiaE.png"
+        },
+        "R": {
+            "name": "Petrifying Gaze",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/CassiopeiaR.png"
+        }
+    },
+    "Cho'Gath": {
+        "Passive": {
+            "name": "Carnivore",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/GreenTerror_TailSpike.png"
+        },
+        "Q": {
+            "name": "Rupture",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/Rupture.png"
+        },
+        "W": {
+            "name": "Feral Scream",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/FeralScream.png"
+        },
+        "E": {
+            "name": "Vorpal Spikes",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/VorpalSpikes.png"
+        },
+        "R": {
+            "name": "Feast",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/Feast.png"
+        }
+    },
+    "Corki": {
+        "Passive": {
+            "name": "Hextech Munitions",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Corki_RapidReload.png"
+        },
+        "Q": {
+            "name": "Phosphorus Bomb",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/PhosphorusBomb.png"
+        },
+        "W": {
+            "name": "Valkyrie",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/CarpetBomb.png"
+        },
+        "E": {
+            "name": "Gatling Gun",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/GGun.png"
+        },
+        "R": {
+            "name": "Missile Barrage",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/MissileBarrage.png"
+        }
+    },
+    "Darius": {
+        "Passive": {
+            "name": "Hemorrhage",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Darius_Icon_Hemorrhage.png"
+        },
+        "Q": {
+            "name": "Decimate",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/DariusCleave.png"
+        },
+        "W": {
+            "name": "Crippling Strike",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/DariusNoxianTacticsONH.png"
+        },
+        "E": {
+            "name": "Apprehend",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/DariusAxeGrabCone.png"
+        },
+        "R": {
+            "name": "Noxian Guillotine",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/DariusExecute.png"
+        }
+    },
+    "Diana": {
+        "Passive": {
+            "name": "Moonsilver Blade",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Diana_Passive_LunarBlade.png"
+        },
+        "Q": {
+            "name": "Crescent Strike",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/DianaQ.png"
+        },
+        "W": {
+            "name": "Pale Cascade",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/DianaOrbs.png"
+        },
+        "E": {
+            "name": "Lunar Rush",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/DianaTeleport.png"
+        },
+        "R": {
+            "name": "Moonfall",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/DianaR.png"
+        }
+    },
+    "Dr. Mundo": {
+        "Passive": {
+            "name": "Goes Where He Pleases",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/DrMundo_P.png"
+        },
+        "Q": {
+            "name": "Infected Bonesaw",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/DrMundoQ.png"
+        },
+        "W": {
+            "name": "Heart Zapper",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/DrMundoW.png"
+        },
+        "E": {
+            "name": "Blunt Force Trauma",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/DrMundoE.png"
+        },
+        "R": {
+            "name": "Maximum Dosage",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/DrMundoR.png"
+        }
+    },
+    "Draven": {
+        "Passive": {
+            "name": "League of Draven",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Draven_passive.png"
+        },
+        "Q": {
+            "name": "Spinning Axe",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/DravenSpinning.png"
+        },
+        "W": {
+            "name": "Blood Rush",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/DravenFury.png"
+        },
+        "E": {
+            "name": "Stand Aside",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/DravenDoubleShot.png"
+        },
+        "R": {
+            "name": "Whirling Death",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/DravenRCast.png"
+        }
+    },
+    "Ekko": {
+        "Passive": {
+            "name": "Z-Drive Resonance",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Ekko_P.png"
+        },
+        "Q": {
+            "name": "Timewinder",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/EkkoQ.png"
+        },
+        "W": {
+            "name": "Parallel Convergence",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/EkkoW.png"
+        },
+        "E": {
+            "name": "Phase Dive",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/EkkoE.png"
+        },
+        "R": {
+            "name": "Chronobreak",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/EkkoR.png"
+        }
+    },
+    "Elise": {
+        "Passive": {
+            "name": "Spider Queen",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/ElisePassive.png"
+        },
+        "Q": {
+            "name": "Neurotoxin / Venomous Bite",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/EliseHumanQ.png"
+        },
+        "W": {
+            "name": "Volatile Spiderling / Skittering Frenzy",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/EliseHumanW.png"
+        },
+        "E": {
+            "name": "Cocoon / Rappel",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/EliseHumanE.png"
+        },
+        "R": {
+            "name": "Spider Form",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/EliseR.png"
+        }
+    },
+    "Evelynn": {
+        "Passive": {
+            "name": "Demon Shade",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Evelynn_Passive.png"
+        },
+        "Q": {
+            "name": "Hate Spike",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/EvelynnQ.png"
+        },
+        "W": {
+            "name": "Allure",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/EvelynnW.png"
+        },
+        "E": {
+            "name": "Whiplash",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/EvelynnE.png"
+        },
+        "R": {
+            "name": "Last Caress",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/EvelynnR.png"
+        }
+    },
+    "Ezreal": {
+        "Passive": {
+            "name": "Rising Spell Force",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Ezreal_RisingSpellForce.png"
+        },
+        "Q": {
+            "name": "Mystic Shot",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/EzrealQ.png"
+        },
+        "W": {
+            "name": "Essence Flux",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/EzrealW.png"
+        },
+        "E": {
+            "name": "Arcane Shift",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/EzrealE.png"
+        },
+        "R": {
+            "name": "Trueshot Barrage",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/EzrealR.png"
+        }
+    },
+    "Fiddlesticks": {
+        "Passive": {
+            "name": "A Harmless Scarecrow",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.23.1/img/passive/FiddlesticksP.png"
+        },
+        "Q": {
+            "name": "Terrify",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.23.1/img/spell/FiddleSticksQ.png"
+        },
+        "W": {
+            "name": "Bountiful Harvest",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.23.1/img/spell/FiddleSticksW.png"
+        },
+        "E": {
+            "name": "Reap",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.23.1/img/spell/FiddleSticksE.png"
+        },
+        "R": {
+            "name": "Crowstorm",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.23.1/img/spell/FiddleSticksR.png"
+        }
+    },
+    "Fiora": {
+        "Passive": {
+            "name": "Duelist's Dance",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Fiora_P.png"
+        },
+        "Q": {
+            "name": "Lunge",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/FioraQ.png"
+        },
+        "W": {
+            "name": "Riposte",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/FioraW.png"
+        },
+        "E": {
+            "name": "Bladework",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/FioraE.png"
+        },
+        "R": {
+            "name": "Grand Challenge",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/FioraR.png"
+        }
+    },
+    "Fizz": {
+        "Passive": {
+            "name": "Nimble Fighter",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Fizz_P.png"
+        },
+        "Q": {
+            "name": "Urchin Strike",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/FizzQ.png"
+        },
+        "W": {
+            "name": "Seastone Trident",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/FizzW.png"
+        },
+        "E": {
+            "name": "Playful / Trickster",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/FizzE.png"
+        },
+        "R": {
+            "name": "Chum the Waters",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/FizzR.png"
+        }
+    },
+    "Galio": {
+        "Passive": {
+            "name": "Colossal Smash",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Galio_Passive.png"
+        },
+        "Q": {
+            "name": "Winds of War",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/GalioQ.png"
+        },
+        "W": {
+            "name": "Shield of Durand",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/GalioW.png"
+        },
+        "E": {
+            "name": "Justice Punch",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/GalioE.png"
+        },
+        "R": {
+            "name": "Hero's Entrance",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/GalioR.png"
+        }
+    },
+    "Gangplank": {
+        "Passive": {
+            "name": "Trial by Fire",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Gangplank_Passive.png"
+        },
+        "Q": {
+            "name": "Parrrley",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/GangplankQWrapper.png"
+        },
+        "W": {
+            "name": "Remove Scurvy",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/GangplankW.png"
+        },
+        "E": {
+            "name": "Powder Keg",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/GangplankE.png"
+        },
+        "R": {
+            "name": "Cannon Barrage",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/GangplankR.png"
+        }
+    },
+    "Garen": {
+        "Passive": {
+            "name": "Perseverance",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Garen_Passive.png"
+        },
+        "Q": {
+            "name": "Decisive Strike",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/GarenQ.png"
+        },
+        "W": {
+            "name": "Courage",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/GarenW.png"
+        },
+        "E": {
+            "name": "Judgment",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/GarenE.png"
+        },
+        "R": {
+            "name": "Demacian Justice",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/GarenR.png"
+        }
+    },
+    "Gnar": {
+        "Passive": {
+            "name": "Rage Gene",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Gnar_Passive.png"
+        },
+        "Q": {
+            "name": "Boomerang Throw / Boulder Toss",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/GnarQ.png"
+        },
+        "W": {
+            "name": "Hyper / Wallop",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/GnarW.png"
+        },
+        "E": {
+            "name": "Hop / Crunch",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/GnarE.png"
+        },
+        "R": {
+            "name": "GNAR!",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/GnarR.png"
+        }
+    },
+    "Gragas": {
+        "Passive": {
+            "name": "Happy Hour",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/GragasPassiveHeal.png"
+        },
+        "Q": {
+            "name": "Barrel Roll",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/GragasQ.png"
+        },
+        "W": {
+            "name": "Drunken Rage",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/GragasW.png"
+        },
+        "E": {
+            "name": "Body Slam",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/GragasE.png"
+        },
+        "R": {
+            "name": "Explosive Cask",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/GragasR.png"
+        }
+    },
+    "Graves": {
+        "Passive": {
+            "name": "New Destiny",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/GravesTrueGrit.png"
+        },
+        "Q": {
+            "name": "End of the Line",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/GravesQLineSpell.png"
+        },
+        "W": {
+            "name": "Smoke Screen",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/GravesSmokeGrenade.png"
+        },
+        "E": {
+            "name": "Quickdraw",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/GravesMove.png"
+        },
+        "R": {
+            "name": "Collateral Damage",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/GravesChargeShot.png"
+        }
+    },
+    "Gwen": {
+        "Passive": {
+            "name": "A Thousand Cuts",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Gwen_Passive.png"
+        },
+        "Q": {
+            "name": "Snip Snip!",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/GwenQ.png"
+        },
+        "W": {
+            "name": "Hallowed Mist",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/GwenW.png"
+        },
+        "E": {
+            "name": "Skip 'n Slash",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/GwenE.png"
+        },
+        "R": {
+            "name": "Needlework",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/GwenR.png"
+        }
+    },
+    "Hecarim": {
+        "Passive": {
+            "name": "Warpath",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Hecarim_Passive.png"
+        },
+        "Q": {
+            "name": "Rampage",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/HecarimRapidSlash.png"
+        },
+        "W": {
+            "name": "Spirit of Dread",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/HecarimW.png"
+        },
+        "E": {
+            "name": "Devastating Charge",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/HecarimRamp.png"
+        },
+        "R": {
+            "name": "Onslaught of Shadows",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/HecarimUlt.png"
+        }
+    },
+    "Heimerdinger": {
+        "Passive": {
+            "name": "Hextech Affinity",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Heimerdinger_Passive.png"
+        },
+        "Q": {
+            "name": "H-28 G Evolution Turret",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/HeimerdingerQ.png"
+        },
+        "W": {
+            "name": "Hextech Micro-Rockets",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/HeimerdingerW.png"
+        },
+        "E": {
+            "name": "CH-2 Electron Storm Grenade",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/HeimerdingerE.png"
+        },
+        "R": {
+            "name": "UPGRADE!!!",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/HeimerdingerR.png"
+        }
+    },
+    "Hwei": {
+        "Passive": {
+            "name": "Signature of the Visionary",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/HweiPassive.png"
+        },
+        "Q": {
+            "name": "Subject: Disaster",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/HweiQ.png"
+        },
+        "W": {
+            "name": "Subject: Serenity",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/HweiW.png"
+        },
+        "E": {
+            "name": "Subject: Torment",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/HweiE.png"
+        },
+        "R": {
+            "name": "Spiraling Despair",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/HweiR.png"
+        }
+    },
+    "Illaoi": {
+        "Passive": {
+            "name": "Prophet of an Elder God",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Illaoi_P.png"
+        },
+        "Q": {
+            "name": "Tentacle Smash",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/IllaoiQ.png"
+        },
+        "W": {
+            "name": "Harsh Lesson",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/IllaoiW.png"
+        },
+        "E": {
+            "name": "Test of Spirit",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/IllaoiE.png"
+        },
+        "R": {
+            "name": "Leap of Faith",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/IllaoiR.png"
+        }
+    },
+    "Irelia": {
+        "Passive": {
+            "name": "Ionian Fervor",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Irelia_Passive.png"
+        },
+        "Q": {
+            "name": "Bladesurge",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/IreliaQ.png"
+        },
+        "W": {
+            "name": "Defiant Dance",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/IreliaW.png"
+        },
+        "E": {
+            "name": "Flawless Duet",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/IreliaE.png"
+        },
+        "R": {
+            "name": "Vanguard's Edge",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/IreliaR.png"
+        }
+    },
+    "Ivern": {
+        "Passive": {
+            "name": "Friend of the Forest",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/IvernP.png"
+        },
+        "Q": {
+            "name": "Rootcaller",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/IvernQ.png"
+        },
+        "W": {
+            "name": "Brushmaker",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/IvernW.png"
+        },
+        "E": {
+            "name": "Triggerseed",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/IvernE.png"
+        },
+        "R": {
+            "name": "Daisy!",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/IvernR.png"
+        }
+    },
+    "Janna": {
+        "Passive": {
+            "name": "Tailwind",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Janna_Tailwind.png"
+        },
+        "Q": {
+            "name": "Howling Gale",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/HowlingGale.png"
+        },
+        "W": {
+            "name": "Zephyr",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SowTheWind.png"
+        },
+        "E": {
+            "name": "Eye Of The Storm",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/EyeOfTheStorm.png"
+        },
+        "R": {
+            "name": "Monsoon",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ReapTheWhirlwind.png"
+        }
+    },
+    "Jarvan IV": {
+        "Passive": {
+            "name": "Martial Cadence",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/JarvanIVP.png"
+        },
+        "Q": {
+            "name": "Dragon Strike",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/JarvanIVDragonStrike.png"
+        },
+        "W": {
+            "name": "Golden Aegis",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/JarvanIVGoldenAegis.png"
+        },
+        "E": {
+            "name": "Demacian Standard",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/JarvanIVDemacianStandard.png"
+        },
+        "R": {
+            "name": "Cataclysm",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/JarvanIVCataclysm.png"
+        }
+    },
+    "Jax": {
+        "Passive": {
+            "name": "Relentless Assault",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Armsmaster_MasterOfArms.png"
+        },
+        "Q": {
+            "name": "Leap Strike",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/JaxQ.png"
+        },
+        "W": {
+            "name": "Empower",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/JaxW.png"
+        },
+        "E": {
+            "name": "Counter Strike",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/JaxE.png"
+        },
+        "R": {
+            "name": "Grandmaster-at-Arms",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/JaxR.png"
+        }
+    },
+    "Jayce": {
+        "Passive": {
+            "name": "Hextech Capacitor",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Jayce_Passive.png"
+        },
+        "Q": {
+            "name": "To the Skies! / Shock Blast",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/JayceToTheSkies.png"
+        },
+        "W": {
+            "name": "Lightning Field / Hyper Charge",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/JayceStaticField.png"
+        },
+        "E": {
+            "name": "Thundering Blow / Acceleration Gate",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/JayceThunderingBlow.png"
+        },
+        "R": {
+            "name": "Mercury Cannon / Mercury Hammer",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/JayceStanceHtG.png"
+        }
+    },
+    "Jhin": {
+        "Passive": {
+            "name": "Whisper",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Jhin_P.png"
+        },
+        "Q": {
+            "name": "Dancing Grenade",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/JhinQ.png"
+        },
+        "W": {
+            "name": "Deadly Flourish",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/JhinW.png"
+        },
+        "E": {
+            "name": "Captive Audience",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/JhinE.png"
+        },
+        "R": {
+            "name": "Curtain Call",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/JhinR.png"
+        }
+    },
+    "Jinx": {
+        "Passive": {
+            "name": "Get Excited!",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Jinx_Passive.png"
+        },
+        "Q": {
+            "name": "Switcheroo!",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/JinxQ.png"
+        },
+        "W": {
+            "name": "Zap!",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/JinxW.png"
+        },
+        "E": {
+            "name": "Flame Chompers!",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/JinxE.png"
+        },
+        "R": {
+            "name": "Super Mega Death Rocket!",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/JinxR.png"
+        }
+    },
+    "K'Sante": {
+        "Passive": {
+            "name": "Dauntless Instinct",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Icons_KSante_P.png"
+        },
+        "Q": {
+            "name": "Ntofo Strikes",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/KSanteQ.png"
+        },
+        "W": {
+            "name": "Path Maker",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/KSanteW.png"
+        },
+        "E": {
+            "name": "Footwork",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/KSanteE.png"
+        },
+        "R": {
+            "name": "All Out",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/KSanteR.png"
+        }
+    },
+    "Kai'Sa": {
+        "Passive": {
+            "name": "Second Skin",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Kaisa_Passive.png"
+        },
+        "Q": {
+            "name": "Icathian Rain",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/KaisaQ.png"
+        },
+        "W": {
+            "name": "Void Seeker",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/KaisaW.png"
+        },
+        "E": {
+            "name": "Supercharge",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/KaisaE.png"
+        },
+        "R": {
+            "name": "Killer Instinct",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/KaisaR.png"
+        }
+    },
+    "Kalista": {
+        "Passive": {
+            "name": "Martial Poise",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Kalista_Passive.png"
+        },
+        "Q": {
+            "name": "Pierce",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/KalistaMysticShot.png"
+        },
+        "W": {
+            "name": "Sentinel",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/KalistaW.png"
+        },
+        "E": {
+            "name": "Rend",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/KalistaExpungeWrapper.png"
+        },
+        "R": {
+            "name": "Fate's Call",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/KalistaRx.png"
+        }
+    },
+    "Karma": {
+        "Passive": {
+            "name": "Gathering Fire",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.20.1/img/passive/Karma_Passive.png"
+        },
+        "Q": {
+            "name": "Inner Flame",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.20.1/img/spell/KarmaQ.png"
+        },
+        "W": {
+            "name": "Focused Resolve",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.20.1/img/spell/KarmaSpiritBind.png"
+        },
+        "E": {
+            "name": "Inspire",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.20.1/img/spell/KarmaSolKimShield.png"
+        },
+        "R": {
+            "name": "Mantra",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.20.1/img/spell/KarmaMantra.png"
+        }
+    },
+    "Karthus": {
+        "Passive": {
+            "name": "Death Defied",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Karthus_Passive.png"
+        },
+        "Q": {
+            "name": "Lay Waste",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/KarthusLayWasteA1.png"
+        },
+        "W": {
+            "name": "Wall of Pain",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/KarthusWallOfPain.png"
+        },
+        "E": {
+            "name": "Defile",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/KarthusDefile.png"
+        },
+        "R": {
+            "name": "Requiem",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/KarthusFallenOne.png"
+        }
+    },
+    "Kassadin": {
+        "Passive": {
+            "name": "Void Stone",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Kassadin_Passive.png"
+        },
+        "Q": {
+            "name": "Null Sphere",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/NullLance.png"
+        },
+        "W": {
+            "name": "Nether Blade",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/NetherBlade.png"
+        },
+        "E": {
+            "name": "Force Pulse",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ForcePulse.png"
+        },
+        "R": {
+            "name": "Riftwalk",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/RiftWalk.png"
+        }
+    },
+    "Katarina": {
+        "Passive": {
+            "name": "Voracity",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Katarina_Passive.png"
+        },
+        "Q": {
+            "name": "Bouncing Blade",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/KatarinaQ.png"
+        },
+        "W": {
+            "name": "Preparation",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/KatarinaW.png"
+        },
+        "E": {
+            "name": "Shunpo",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/KatarinaEWrapper.png"
+        },
+        "R": {
+            "name": "Death Lotus",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/KatarinaR.png"
+        }
+    },
+    "Kayle": {
+        "Passive": {
+            "name": "Divine Ascent",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Kayle_P.png"
+        },
+        "Q": {
+            "name": "Radiant Blast",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/KayleQ.png"
+        },
+        "W": {
+            "name": "Celestial Blessing",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/KayleW.png"
+        },
+        "E": {
+            "name": "Starfire Spellblade",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/KayleE.png"
+        },
+        "R": {
+            "name": "Divine Judgment",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/KayleR.png"
+        }
+    },
+    "Kayn": {
+        "Passive": {
+            "name": "The Darkin Scythe",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Kayn_Passive_Primary.png"
+        },
+        "Q": {
+            "name": "Reaping Slash",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/KaynQ.png"
+        },
+        "W": {
+            "name": "Blade's Reach",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/KaynW.png"
+        },
+        "E": {
+            "name": "Shadow Step",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/KaynE.png"
+        },
+        "R": {
+            "name": "Umbral Trespass",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/KaynR.png"
+        }
+    },
+    "Kennen": {
+        "Passive": {
+            "name": "Mark of the Storm",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Kennen_Passive.png"
+        },
+        "Q": {
+            "name": "Thundering Shuriken",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/KennenShurikenHurlMissile1.png"
+        },
+        "W": {
+            "name": "Electrical Surge",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/KennenBringTheLight.png"
+        },
+        "E": {
+            "name": "Lightning Rush",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/KennenLightningRush.png"
+        },
+        "R": {
+            "name": "Slicing Maelstrom",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/KennenShurikenStorm.png"
+        }
+    },
+    "Kha'Zix": {
+        "Passive": {
+            "name": "Unseen Threat",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Khazix_P.png"
+        },
+        "Q": {
+            "name": "Taste Their Fear",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/KhazixQ.png"
+        },
+        "W": {
+            "name": "Void Spike",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/KhazixW.png"
+        },
+        "E": {
+            "name": "Leap",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/KhazixE.png"
+        },
+        "R": {
+            "name": "Void Assault",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/KhazixR.png"
+        }
+    },
+    "Kindred": {
+        "Passive": {
+            "name": "Mark of the Kindred",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Kindred_Passive.png"
+        },
+        "Q": {
+            "name": "Dance of Arrows",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/KindredQ.png"
+        },
+        "W": {
+            "name": "Wolf's Frenzy",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/KindredW.png"
+        },
+        "E": {
+            "name": "Mounting Dread",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/KindredEWrapper.png"
+        },
+        "R": {
+            "name": "Lamb's Respite",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/KindredR.png"
+        }
+    },
+    "Kled": {
+        "Passive": {
+            "name": "Skaarl, the Cowardly Lizard",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Kled_P.png"
+        },
+        "Q": {
+            "name": "Bear Trap on a Rope",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/KledQ.png"
+        },
+        "W": {
+            "name": "Violent Tendencies",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/KledW.png"
+        },
+        "E": {
+            "name": "Jousting",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/KledE.png"
+        },
+        "R": {
+            "name": "Chaaaaaaaarge!!!",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/KledR.png"
+        }
+    },
+    "Kog'Maw": {
+        "Passive": {
+            "name": "Icathian Surprise",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/KogMaw_IcathianSurprise.png"
+        },
+        "Q": {
+            "name": "Caustic Spittle",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/KogMawQ.png"
+        },
+        "W": {
+            "name": "Bio-Arcane Barrage",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/KogMawBioArcaneBarrage.png"
+        },
+        "E": {
+            "name": "Void Ooze",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/KogMawVoidOoze.png"
+        },
+        "R": {
+            "name": "Living Artillery",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/KogMawLivingArtillery.png"
+        }
+    },
+    "LeBlanc": {
+        "Passive": {
+            "name": "Mirror Image",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/LeBlancP.png"
+        },
+        "Q": {
+            "name": "Sigil of Malice",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/LeblancQ.png"
+        },
+        "W": {
+            "name": "Distortion",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/LeblancW.png"
+        },
+        "E": {
+            "name": "Ethereal Chains",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/LeblancE.png"
+        },
+        "R": {
+            "name": "Mimic",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/LeblancR.png"
+        }
+    },
+    "Lee Sin": {
+        "Passive": {
+            "name": "Flurry",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/LeeSinPassive.png"
+        },
+        "Q": {
+            "name": "Sonic Wave / Resonating Strike",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/LeeSinQOne.png"
+        },
+        "W": {
+            "name": "Safeguard / Iron Will",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/LeeSinWOne.png"
+        },
+        "E": {
+            "name": "Tempest / Cripple",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/LeeSinEOne.png"
+        },
+        "R": {
+            "name": "Dragon's Rage",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/LeeSinR.png"
+        }
+    },
+    "Leona": {
+        "Passive": {
+            "name": "Sunlight",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/LeonaSunlight.png"
+        },
+        "Q": {
+            "name": "Shield of Daybreak",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/LeonaShieldOfDaybreak.png"
+        },
+        "W": {
+            "name": "Eclipse",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/LeonaSolarBarrier.png"
+        },
+        "E": {
+            "name": "Zenith Blade",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/LeonaZenithBlade.png"
+        },
+        "R": {
+            "name": "Solar Flare",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/LeonaSolarFlare.png"
+        }
+    },
+    "Lillia": {
+        "Passive": {
+            "name": "Dream-Laden Bough",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Lillia_Icon_Passive.png"
+        },
+        "Q": {
+            "name": "Blooming Blows",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/LilliaQ.png"
+        },
+        "W": {
+            "name": "Watch Out! Eep!",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/LilliaW.png"
+        },
+        "E": {
+            "name": "Swirlseed",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/LilliaE.png"
+        },
+        "R": {
+            "name": "Lilting Lullaby",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/LilliaR.png"
+        }
+    },
+    "Lissandra": {
+        "Passive": {
+            "name": "Iceborn Subjugation",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Lissandra_Passive.png"
+        },
+        "Q": {
+            "name": "Ice Shard",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/LissandraQ.png"
+        },
+        "W": {
+            "name": "Ring of Frost",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/LissandraW.png"
+        },
+        "E": {
+            "name": "Glacial Path",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/LissandraE.png"
+        },
+        "R": {
+            "name": "Frozen Tomb",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/LissandraR.png"
+        }
+    },
+    "Lucian": {
+        "Passive": {
+            "name": "Lightslinger",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Lucian_Passive.png"
+        },
+        "Q": {
+            "name": "Piercing Light",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/LucianQ.png"
+        },
+        "W": {
+            "name": "Ardent Blaze",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/LucianW.png"
+        },
+        "E": {
+            "name": "Relentless Pursuit",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/LucianE.png"
+        },
+        "R": {
+            "name": "The Culling",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/LucianR.png"
+        }
+    },
+    "Lulu": {
+        "Passive": {
+            "name": "Pix, Faerie Companion",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Lulu_PixFaerieCompanion.png"
+        },
+        "Q": {
+            "name": "Glitterlance",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/LuluQ.png"
+        },
+        "W": {
+            "name": "Whimsy",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/LuluW.png"
+        },
+        "E": {
+            "name": "Help, Pix!",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/LuluE.png"
+        },
+        "R": {
+            "name": "Wild Growth",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/LuluR.png"
+        }
+    },
+    "Lux": {
+        "Passive": {
+            "name": "Illumination",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/LuxIlluminatingFraulein.png"
+        },
+        "Q": {
+            "name": "Light Binding",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/LuxLightBinding.png"
+        },
+        "W": {
+            "name": "Prismatic Barrier",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/LuxPrismaticWave.png"
+        },
+        "E": {
+            "name": "Lucent Singularity",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/LuxLightStrikeKugel.png"
+        },
+        "R": {
+            "name": "Final Spark",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/LuxR.png"
+        }
+    },
+    "Malphite": {
+        "Passive": {
+            "name": "Granite Shield",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Malphite_GraniteShield.png"
+        },
+        "Q": {
+            "name": "Seismic Shard",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SeismicShard.png"
+        },
+        "W": {
+            "name": "Thunderclap",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/Obduracy.png"
+        },
+        "E": {
+            "name": "Ground Slam",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/Landslide.png"
+        },
+        "R": {
+            "name": "Unstoppable Force",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/UFSlash.png"
+        }
+    },
+    "Malzahar": {
+        "Passive": {
+            "name": "Void Shift",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Malzahar_Passive.png"
+        },
+        "Q": {
+            "name": "Call of the Void",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/MalzaharQ.png"
+        },
+        "W": {
+            "name": "Void Swarm",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/MalzaharW.png"
+        },
+        "E": {
+            "name": "Malefic Visions",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/MalzaharE.png"
+        },
+        "R": {
+            "name": "Nether Grasp",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/MalzaharR.png"
+        }
+    },
+    "Maokai": {
+        "Passive": {
+            "name": "Sap Magic",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Maokai_Passive.png"
+        },
+        "Q": {
+            "name": "Bramble Smash",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/MaokaiQ.png"
+        },
+        "W": {
+            "name": "Twisted Advance",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/MaokaiW.png"
+        },
+        "E": {
+            "name": "Sapling Toss",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/MaokaiE.png"
+        },
+        "R": {
+            "name": "Nature's Grasp",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/MaokaiR.png"
+        }
+    },
+    "Master Yi": {
+        "Passive": {
+            "name": "Double Strike",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/MasterYi_Passive1.png"
+        },
+        "Q": {
+            "name": "Alpha Strike",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/AlphaStrike.png"
+        },
+        "W": {
+            "name": "Meditate",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/Meditate.png"
+        },
+        "E": {
+            "name": "Wuju Style",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/WujuStyle.png"
+        },
+        "R": {
+            "name": "Highlander",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/Highlander.png"
+        }
+    },
+    "Milio": {
+        "Passive": {
+            "name": "Fired Up!",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Milio_P.png"
+        },
+        "Q": {
+            "name": "Ultra Mega Fire Kick",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/MilioQ.png"
+        },
+        "W": {
+            "name": "Cozy Campfire",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/MilioW.png"
+        },
+        "E": {
+            "name": "Warm Hugs",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/MilioE.png"
+        },
+        "R": {
+            "name": "Breath of Life",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/MilioR.png"
+        }
+    },
+    "Miss Fortune": {
+        "Passive": {
+            "name": "Love Tap",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/MissFortune_W.png"
+        },
+        "Q": {
+            "name": "Double Up",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/MissFortuneRicochetShot.png"
+        },
+        "W": {
+            "name": "Strut",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/MissFortuneViciousStrikes.png"
+        },
+        "E": {
+            "name": "Make It Rain",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/MissFortuneScattershot.png"
+        },
+        "R": {
+            "name": "Bullet Time",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/MissFortuneBulletTime.png"
+        }
+    },
+    "Mordekaiser": {
+        "Passive": {
+            "name": "Darkness Rise",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/MordekaiserPassive.png"
+        },
+        "Q": {
+            "name": "Obliterate",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/MordekaiserQ.png"
+        },
+        "W": {
+            "name": "Indestructible",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/MordekaiserW.png"
+        },
+        "E": {
+            "name": "Death's Grasp",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/MordekaiserE.png"
+        },
+        "R": {
+            "name": "Realm of Death",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/MordekaiserR.png"
+        }
+    },
+    "Morgana": {
+        "Passive": {
+            "name": "Soul Siphon",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/FallenAngel_Empathize.png"
+        },
+        "Q": {
+            "name": "Dark Binding",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/MorganaQ.png"
+        },
+        "W": {
+            "name": "Tormented Shadow",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/MorganaW.png"
+        },
+        "E": {
+            "name": "Black Shield",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/MorganaE.png"
+        },
+        "R": {
+            "name": "Soul Shackles",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/MorganaR.png"
+        }
+    },
+    "Naafiri": {
+        "Passive": {
+            "name": "We Are More",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Icons_Naafiri_P.png"
+        },
+        "Q": {
+            "name": "Darkin Daggers",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/NaafiriQ.png"
+        },
+        "W": {
+            "name": "Hounds' Pursuit",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/NaafiriW.png"
+        },
+        "E": {
+            "name": "Eviscerate",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/NaafiriE.png"
+        },
+        "R": {
+            "name": "The Call of the Pack",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/NaafiriR.png"
+        }
+    },
+    "Nami": {
+        "Passive": {
+            "name": "Surging Tides",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/NamiPassive.png"
+        },
+        "Q": {
+            "name": "Aqua Prison",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/NamiQ.png"
+        },
+        "W": {
+            "name": "Ebb and Flow",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/NamiW.png"
+        },
+        "E": {
+            "name": "Tidecaller's Blessing",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/NamiE.png"
+        },
+        "R": {
+            "name": "Tidal Wave",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/NamiR.png"
+        }
+    },
+    "Nasus": {
+        "Passive": {
+            "name": "Soul Eater",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Nasus_Passive.png"
+        },
+        "Q": {
+            "name": "Siphoning Strike",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/NasusQ.png"
+        },
+        "W": {
+            "name": "Wither",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/NasusW.png"
+        },
+        "E": {
+            "name": "Spirit Fire",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/NasusE.png"
+        },
+        "R": {
+            "name": "Fury of the Sands",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/NasusR.png"
+        }
+    },
+    "Nautilus": {
+        "Passive": {
+            "name": "Staggering Blow",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Nautilus_StaggeringBlow.png"
+        },
+        "Q": {
+            "name": "Dredge Line",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/NautilusAnchorDrag.png"
+        },
+        "W": {
+            "name": "Titan's Wrath",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/NautilusPiercingGaze.png"
+        },
+        "E": {
+            "name": "Riptide",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/NautilusSplashZone.png"
+        },
+        "R": {
+            "name": "Depth Charge",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/NautilusGrandLine.png"
+        }
+    },
+    "Neeko": {
+        "Passive": {
+            "name": "Inherent Glamour",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Neeko_P.png"
+        },
+        "Q": {
+            "name": "Blooming Burst",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/NeekoQ.png"
+        },
+        "W": {
+            "name": "Shapesplitter",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/NeekoW.png"
+        },
+        "E": {
+            "name": "Tangle-Barbs",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/NeekoE.png"
+        },
+        "R": {
+            "name": "Pop Blossom",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/NeekoR.png"
+        }
+    },
+    "Nidalee": {
+        "Passive": {
+            "name": "Prowl",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Nidalee_Passive.png"
+        },
+        "Q": {
+            "name": "Javelin Toss / Takedown",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/JavelinToss.png"
+        },
+        "W": {
+            "name": "Bushwhack / Pounce",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/Bushwhack.png"
+        },
+        "E": {
+            "name": "Primal Surge / Swipe",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/PrimalSurge.png"
+        },
+        "R": {
+            "name": "Aspect Of The Cougar",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/AspectOfTheCougar.png"
+        }
+    },
+    "Nilah": {
+        "Passive": {
+            "name": "Joy Unending",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/NIlahP.png"
+        },
+        "Q": {
+            "name": "Formless Blade",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/NilahQ.png"
+        },
+        "W": {
+            "name": "Jubilant Veil",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/NilahW.png"
+        },
+        "E": {
+            "name": "Slipstream",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/NilahE.png"
+        },
+        "R": {
+            "name": "Apotheosis",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/NilahR.png"
+        }
+    },
+    "Nocturne": {
+        "Passive": {
+            "name": "Umbra Blades",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Nocturne_UmbraBlades.png"
+        },
+        "Q": {
+            "name": "Duskbringer",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/NocturneDuskbringer.png"
+        },
+        "W": {
+            "name": "Shroud of Darkness",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/NocturneShroudofDarkness.png"
+        },
+        "E": {
+            "name": "Unspeakable Horror",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/NocturneUnspeakableHorror.png"
+        },
+        "R": {
+            "name": "Paranoia",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/NocturneParanoia.png"
+        }
+    },
+    "Olaf": {
+        "Passive": {
+            "name": "Berserker Rage",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Olaf_Passive.png"
+        },
+        "Q": {
+            "name": "Undertow",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/OlafAxeThrowCast.png"
+        },
+        "W": {
+            "name": "Tough It Out",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/OlafFrenziedStrikes.png"
+        },
+        "E": {
+            "name": "Reckless Swing",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/OlafRecklessStrike.png"
+        },
+        "R": {
+            "name": "Ragnarok",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/OlafRagnarok.png"
+        }
+    },
+    "Orianna": {
+        "Passive": {
+            "name": "Clockwork Windup",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/OriannaPassive.png"
+        },
+        "Q": {
+            "name": "Command: Attack",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/OrianaIzunaCommand.png"
+        },
+        "W": {
+            "name": "Command: Dissonance",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/OrianaDissonanceCommand.png"
+        },
+        "E": {
+            "name": "Command: Protect",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/OrianaRedactCommand.png"
+        },
+        "R": {
+            "name": "Command: Shockwave",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/OrianaDetonateCommand.png"
+        }
+    },
+    "Ornn": {
+        "Passive": {
+            "name": "Living Forge",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/OrnnP.png"
+        },
+        "Q": {
+            "name": "Volcanic Rupture",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/OrnnQ.png"
+        },
+        "W": {
+            "name": "Bellows Breath",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/OrnnW.png"
+        },
+        "E": {
+            "name": "Searing Charge",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/OrnnE.png"
+        },
+        "R": {
+            "name": "Call of the Forge God",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/OrnnR.png"
+        }
+    },
+    "Pantheon": {
+        "Passive": {
+            "name": "Mortal Will",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Pantheon_Passive.png"
+        },
+        "Q": {
+            "name": "Comet Spear",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/PantheonQ.png"
+        },
+        "W": {
+            "name": "Shield Vault",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/PantheonW.png"
+        },
+        "E": {
+            "name": "Aegis Assault",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/PantheonE.png"
+        },
+        "R": {
+            "name": "Grand Starfall",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/PantheonR.png"
+        }
+    },
+    "Poppy": {
+        "Passive": {
+            "name": "Iron Ambassador",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Poppy_Passive.png"
+        },
+        "Q": {
+            "name": "Hammer Shock",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/PoppyQ.png"
+        },
+        "W": {
+            "name": "Steadfast Presence",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/PoppyW.png"
+        },
+        "E": {
+            "name": "Heroic Charge",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/PoppyE.png"
+        },
+        "R": {
+            "name": "Keeper's Verdict",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/PoppyR.png"
+        }
+    },
+    "Pyke": {
+        "Passive": {
+            "name": "Gift of the Drowned Ones",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/PykePassive.png"
+        },
+        "Q": {
+            "name": "Bone Skewer",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/PykeQ.png"
+        },
+        "W": {
+            "name": "Ghostwater Dive",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/PykeW.png"
+        },
+        "E": {
+            "name": "Phantom Undertow",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/PykeE.png"
+        },
+        "R": {
+            "name": "Death From Below",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/PykeR.png"
+        }
+    },
+    "Qiyana": {
+        "Passive": {
+            "name": "Royal Privilege",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Qiyana_Passive.png"
+        },
+        "Q": {
+            "name": "Elemental Wrath / Edge of Ixtal",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/QiyanaQ.png"
+        },
+        "W": {
+            "name": "Terrashape",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/QiyanaW.png"
+        },
+        "E": {
+            "name": "Audacity",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/QiyanaE.png"
+        },
+        "R": {
+            "name": "Supreme Display of Talent",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/QiyanaR.png"
+        }
+    },
+    "Quinn": {
+        "Passive": {
+            "name": "Harrier",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Quinn_Passive.png"
+        },
+        "Q": {
+            "name": "Blinding Assault",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/QuinnQ.png"
+        },
+        "W": {
+            "name": "Heightened Senses",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/QuinnW.png"
+        },
+        "E": {
+            "name": "Vault",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/QuinnE.png"
+        },
+        "R": {
+            "name": "Behind Enemy Lines",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/QuinnR.png"
+        }
+    },
+    "Rakan": {
+        "Passive": {
+            "name": "Fey Feathers",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Rakan_P.png"
+        },
+        "Q": {
+            "name": "Gleaming Quill",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/RakanQ.png"
+        },
+        "W": {
+            "name": "Grand Entrance",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/RakanW.png"
+        },
+        "E": {
+            "name": "Battle Dance",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/RakanE.png"
+        },
+        "R": {
+            "name": "The Quickness",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/RakanR.png"
+        }
+    },
+    "Rammus": {
+        "Passive": {
+            "name": "Spiked Shell",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Armordillo_ScavengeArmor.png"
+        },
+        "Q": {
+            "name": "Powerball",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/PowerBall.png"
+        },
+        "W": {
+            "name": "Defensive Ball Curl",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/DefensiveBallCurl.png"
+        },
+        "E": {
+            "name": "Frenzying Taunt",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/PuncturingTaunt.png"
+        },
+        "R": {
+            "name": "Soaring Slam",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/Tremors2.png"
+        }
+    },
+    "Rek'Sai": {
+        "Passive": {
+            "name": "Fury of the Xer'Sai",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/RekSai_Passive.png"
+        },
+        "Q": {
+            "name": "Queen's Wrath / Prey Seeker",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/RekSaiQ.png"
+        },
+        "W": {
+            "name": "Burrow / Un-burrow",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/RekSaiW.png"
+        },
+        "E": {
+            "name": "Furious Bite / Tunnel",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/RekSaiE.png"
+        },
+        "R": {
+            "name": "Void Rush",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/RekSaiR.png"
+        }
+    },
+    "Rell": {
+        "Passive": {
+            "name": "Break the Mold",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/RellP.png"
+        },
+        "Q": {
+            "name": "Shattering Strike",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/RellQ.png"
+        },
+        "W": {
+            "name": "Ferromancy: Crash Down",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/RellW_Dismount.png"
+        },
+        "E": {
+            "name": "Full Tilt",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/RellE.png"
+        },
+        "R": {
+            "name": "Magnet Storm",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/RellR.png"
+        }
+    },
+    "Renekton": {
+        "Passive": {
+            "name": "Reign of Anger",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Renekton_Passive.png"
+        },
+        "Q": {
+            "name": "Cull the Meek",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/RenektonCleave.png"
+        },
+        "W": {
+            "name": "Ruthless Predator",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/RenektonPreExecute.png"
+        },
+        "E": {
+            "name": "Slice and Dice",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/RenektonSliceAndDice.png"
+        },
+        "R": {
+            "name": "Dominus",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/RenektonReignOfTheTyrant.png"
+        }
+    },
+    "Rengar": {
+        "Passive": {
+            "name": "Unseen Predator",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Rengar_P.png"
+        },
+        "Q": {
+            "name": "Savagery",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/RengarQ.png"
+        },
+        "W": {
+            "name": "Battle Roar",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/RengarW.png"
+        },
+        "E": {
+            "name": "Bola Strike",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/RengarE.png"
+        },
+        "R": {
+            "name": "Thrill of the Hunt",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/RengarR.png"
+        }
+    },
+    "Riven": {
+        "Passive": {
+            "name": "Runic Blade",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/RivenRunicBlades.png"
+        },
+        "Q": {
+            "name": "Broken Wings",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/RivenTriCleave.png"
+        },
+        "W": {
+            "name": "Ki Burst",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/RivenMartyr.png"
+        },
+        "E": {
+            "name": "Valor",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/RivenFeint.png"
+        },
+        "R": {
+            "name": "Blade of the Exile",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/RivenFengShuiEngine.png"
+        }
+    },
+    "Rumble": {
+        "Passive": {
+            "name": "Junkyard Titan",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Rumble_JunkyardTitan1.png"
+        },
+        "Q": {
+            "name": "Flamespitter",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/RumbleFlameThrower.png"
+        },
+        "W": {
+            "name": "Scrap Shield",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/RumbleShield.png"
+        },
+        "E": {
+            "name": "Electro Harpoon",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/RumbleGrenade.png"
+        },
+        "R": {
+            "name": "The Equalizer",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/RumbleCarpetBomb.png"
+        }
+    },
+    "Ryze": {
+        "Passive": {
+            "name": "Arcane Mastery",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Ryze_P.png"
+        },
+        "Q": {
+            "name": "Overload",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/RyzeQWrapper.png"
+        },
+        "W": {
+            "name": "Rune Prison",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/RyzeW.png"
+        },
+        "E": {
+            "name": "Spell Flux",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/RyzeE.png"
+        },
+        "R": {
+            "name": "Realm Warp",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/RyzeR.png"
+        }
+    },
+    "Samira": {
+        "Passive": {
+            "name": "Daredevil Impulse",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/SamiraP.png"
+        },
+        "Q": {
+            "name": "Flair",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SamiraQ.png"
+        },
+        "W": {
+            "name": "Blade Whirl",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SamiraW.png"
+        },
+        "E": {
+            "name": "Wild Rush",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SamiraE.png"
+        },
+        "R": {
+            "name": "Inferno Trigger",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SamiraR.png"
+        }
+    },
+    "Sejuani": {
+        "Passive": {
+            "name": "Fury of the North",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Sejuani_passive.png"
+        },
+        "Q": {
+            "name": "Arctic Assault",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SejuaniQ.png"
+        },
+        "W": {
+            "name": "Winter's Wrath",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SejuaniW.png"
+        },
+        "E": {
+            "name": "Permafrost",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SejuaniE.png"
+        },
+        "R": {
+            "name": "Glacial Prison",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SejuaniR.png"
+        }
+    },
+    "Senna": {
+        "Passive": {
+            "name": "Absolution",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Senna_Passive.png"
+        },
+        "Q": {
+            "name": "Piercing Darkness",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SennaQ.png"
+        },
+        "W": {
+            "name": "Last Embrace",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SennaW.png"
+        },
+        "E": {
+            "name": "Curse of the Black Mist",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SennaE.png"
+        },
+        "R": {
+            "name": "Dawning Shadow",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SennaR.png"
+        }
+    },
+    "Seraphine": {
+        "Passive": {
+            "name": "Stage Presence",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Seraphine_Passive.png"
+        },
+        "Q": {
+            "name": "High Note",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SeraphineQ.png"
+        },
+        "W": {
+            "name": "Surround Sound",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SeraphineW.png"
+        },
+        "E": {
+            "name": "Beat Drop",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SeraphineE.png"
+        },
+        "R": {
+            "name": "Encore",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SeraphineR.png"
+        }
+    },
+    "Sett": {
+        "Passive": {
+            "name": "Pit Grit",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Sett_P.png"
+        },
+        "Q": {
+            "name": "Knuckle Down",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SettQ.png"
+        },
+        "W": {
+            "name": "Haymaker",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SettW.png"
+        },
+        "E": {
+            "name": "Facebreaker",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SettE.png"
+        },
+        "R": {
+            "name": "The Show Stopper",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SettR.png"
+        }
+    },
+    "Shaco": {
+        "Passive": {
+            "name": "Backstab",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Jester_CarefulStrikes.png"
+        },
+        "Q": {
+            "name": "Deceive",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/Deceive.png"
+        },
+        "W": {
+            "name": "Jack In The Box",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/JackInTheBox.png"
+        },
+        "E": {
+            "name": "Two-Shiv Poison",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/TwoShivPoison.png"
+        },
+        "R": {
+            "name": "Hallucinate",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/HallucinateFull.png"
+        }
+    },
+    "Shen": {
+        "Passive": {
+            "name": "Ki Barrier",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Shen_Passive.png"
+        },
+        "Q": {
+            "name": "Twilight Assault",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ShenQ.png"
+        },
+        "W": {
+            "name": "Spirit's Refuge",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ShenW.png"
+        },
+        "E": {
+            "name": "Shadow Dash",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ShenE.png"
+        },
+        "R": {
+            "name": "Stand United",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ShenR.png"
+        }
+    },
+    "Shyvana": {
+        "Passive": {
+            "name": "Fury of the Dragonborn",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/ShyvanaReinforcedScales.png"
+        },
+        "Q": {
+            "name": "Twin Bite",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ShyvanaDoubleAttack.png"
+        },
+        "W": {
+            "name": "Burnout",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ShyvanaImmolationAura.png"
+        },
+        "E": {
+            "name": "Flame Breath",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ShyvanaFireball.png"
+        },
+        "R": {
+            "name": "Dragon's Descent",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ShyvanaTransformCast.png"
+        }
+    },
+    "Singed": {
+        "Passive": {
+            "name": "Noxious Slipstream",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Singed_Passive.png"
+        },
+        "Q": {
+            "name": "Poison Trail",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/PoisonTrail.png"
+        },
+        "W": {
+            "name": "Mega Adhesive",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/MegaAdhesive.png"
+        },
+        "E": {
+            "name": "Fling",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/Fling.png"
+        },
+        "R": {
+            "name": "Insanity Potion",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/InsanityPotion.png"
+        }
+    },
+    "Sion": {
+        "Passive": {
+            "name": "Glory in Death",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Sion_Passive1.png"
+        },
+        "Q": {
+            "name": "Decimating Smash",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SionQ.png"
+        },
+        "W": {
+            "name": "Soul Furnace",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SionW.png"
+        },
+        "E": {
+            "name": "Roar of the Slayer",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SionE.png"
+        },
+        "R": {
+            "name": "Unstoppable Onslaught",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SionR.png"
+        }
+    },
+    "Sivir": {
+        "Passive": {
+            "name": "Fleet of Foot",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Sivir_Passive.png"
+        },
+        "Q": {
+            "name": "Boomerang Blade",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SivirQ.png"
+        },
+        "W": {
+            "name": "Ricochet",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SivirW.png"
+        },
+        "E": {
+            "name": "Spell Shield",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SivirE.png"
+        },
+        "R": {
+            "name": "On The Hunt",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SivirR.png"
+        }
+    },
+    "Skarner": {
+        "Passive": {
+            "name": "Threads of Vibration",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Skarner_Passive.png"
+        },
+        "Q": {
+            "name": "Shattered Earth / Upheaval",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SkarnerQ.png"
+        },
+        "W": {
+            "name": "Seismic Bastion",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SkarnerW.png"
+        },
+        "E": {
+            "name": "Ixtal's Impact",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SkarnerE.png"
+        },
+        "R": {
+            "name": "Impale",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SkarnerR.png"
+        }
+    },
+    "Smolder": {
+        "Passive": {
+            "name": "Dragon Practice",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Icons_Smolder_Passive.png"
+        },
+        "Q": {
+            "name": "Super Scorcher Breath",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SmolderQ.png"
+        },
+        "W": {
+            "name": "Achooo!",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SmolderW.png"
+        },
+        "E": {
+            "name": "Flap, Flap, Flap",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SmolderE.png"
+        },
+        "R": {
+            "name": "MMOOOMMMM!",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SmolderR.png"
+        }
+    },
+    "Sona": {
+        "Passive": {
+            "name": "Power Chord",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Sona_Passive_Charged.png"
+        },
+        "Q": {
+            "name": "Hymn of Valor",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SonaQ.png"
+        },
+        "W": {
+            "name": "Aria of Perseverance",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SonaW.png"
+        },
+        "E": {
+            "name": "Song of Celerity",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SonaE.png"
+        },
+        "R": {
+            "name": "Crescendo",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SonaR.png"
+        }
+    },
+    "Soraka": {
+        "Passive": {
+            "name": "Salvation",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Soraka_Passive.png"
+        },
+        "Q": {
+            "name": "Starcall",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SorakaQ.png"
+        },
+        "W": {
+            "name": "Astral Infusion",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SorakaW.png"
+        },
+        "E": {
+            "name": "Equinox",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SorakaE.png"
+        },
+        "R": {
+            "name": "Wish",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SorakaR.png"
+        }
+    },
+    "Swain": {
+        "Passive": {
+            "name": "Ravenous Flock",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Swain_P.png"
+        },
+        "Q": {
+            "name": "Death's Hand",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SwainQ.png"
+        },
+        "W": {
+            "name": "Vision of Empire",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SwainW.png"
+        },
+        "E": {
+            "name": "Nevermove",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SwainE.png"
+        },
+        "R": {
+            "name": "Demonic Ascension",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SwainR.png"
+        }
+    },
+    "Sylas": {
+        "Passive": {
+            "name": "Petricite Burst",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/SylasP.png"
+        },
+        "Q": {
+            "name": "Chain Lash",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SylasQ.png"
+        },
+        "W": {
+            "name": "Kingslayer",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SylasW.png"
+        },
+        "E": {
+            "name": "Abscond / Abduct",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SylasE.png"
+        },
+        "R": {
+            "name": "Hijack",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SylasR.png"
+        }
+    },
+    "Syndra": {
+        "Passive": {
+            "name": "Transcendent",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/SyndraPassive.png"
+        },
+        "Q": {
+            "name": "Dark Sphere",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SyndraQ.png"
+        },
+        "W": {
+            "name": "Force of Will",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SyndraW.png"
+        },
+        "E": {
+            "name": "Scatter the Weak",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SyndraE.png"
+        },
+        "R": {
+            "name": "Unleashed Power",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SyndraR.png"
+        }
+    },
+    "Tahm Kench": {
+        "Passive": {
+            "name": "An Acquired Taste",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/TahmKenchP.png"
+        },
+        "Q": {
+            "name": "Tongue Lash",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/TahmKenchQ.png"
+        },
+        "W": {
+            "name": "Abyssal Dive",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/TahmKenchW.png"
+        },
+        "E": {
+            "name": "Thick Skin",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/TahmKenchE.png"
+        },
+        "R": {
+            "name": "Devour",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/TahmKenchRWrapper.png"
+        }
+    },
+    "Taliyah": {
+        "Passive": {
+            "name": "Rock Surfing",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Taliyah_Passive.png"
+        },
+        "Q": {
+            "name": "Threaded Volley",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/TaliyahQ.png"
+        },
+        "W": {
+            "name": "Seismic Shove",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/TaliyahWVC.png"
+        },
+        "E": {
+            "name": "Unraveled Earth",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/TaliyahE.png"
+        },
+        "R": {
+            "name": "Weaver's Wall",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/TaliyahR.png"
+        }
+    },
+    "Talon": {
+        "Passive": {
+            "name": "Blade's End",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/TalonP.png"
+        },
+        "Q": {
+            "name": "Noxian Diplomacy",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/TalonQ.png"
+        },
+        "W": {
+            "name": "Rake",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/TalonW.png"
+        },
+        "E": {
+            "name": "Assassin's Path",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/TalonE.png"
+        },
+        "R": {
+            "name": "Shadow Assault",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/TalonR.png"
+        }
+    },
+    "Taric": {
+        "Passive": {
+            "name": "Bravado",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Taric_Passive.png"
+        },
+        "Q": {
+            "name": "Starlight's Touch",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/TaricQ.png"
+        },
+        "W": {
+            "name": "Bastion",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/TaricW.png"
+        },
+        "E": {
+            "name": "Dazzle",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/TaricE.png"
+        },
+        "R": {
+            "name": "Cosmic Radiance",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/TaricR.png"
+        }
+    },
+    "Teemo": {
+        "Passive": {
+            "name": "Guerrilla Warfare",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Teemo_P.png"
+        },
+        "Q": {
+            "name": "Blinding Dart",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/BlindingDart.png"
+        },
+        "W": {
+            "name": "Move Quick",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/MoveQuick.png"
+        },
+        "E": {
+            "name": "Toxic Shot",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ToxicShot.png"
+        },
+        "R": {
+            "name": "Noxious Trap",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/TeemoRCast.png"
+        }
+    },
+    "Thresh": {
+        "Passive": {
+            "name": "Damnation",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Thresh_Passive.png"
+        },
+        "Q": {
+            "name": "Death Sentence",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ThreshQ.png"
+        },
+        "W": {
+            "name": "Dark Passage",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ThreshW.png"
+        },
+        "E": {
+            "name": "Flay",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ThreshE.png"
+        },
+        "R": {
+            "name": "The Box",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ThreshRPenta.png"
+        }
+    },
+    "Tristana": {
+        "Passive": {
+            "name": "Draw a Bead",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Tristana_Passive.png"
+        },
+        "Q": {
+            "name": "Rapid Fire",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/TristanaQ.png"
+        },
+        "W": {
+            "name": "Rocket Jump",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/TristanaW.png"
+        },
+        "E": {
+            "name": "Explosive Charge",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/TristanaE.png"
+        },
+        "R": {
+            "name": "Buster Shot",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/TristanaR.png"
+        }
+    },
+    "Trundle": {
+        "Passive": {
+            "name": "King's Tribute",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Trundle_Passive.png"
+        },
+        "Q": {
+            "name": "Chomp",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/TrundleTrollSmash.png"
+        },
+        "W": {
+            "name": "Frozen Domain",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/trundledesecrate.png"
+        },
+        "E": {
+            "name": "Pillar of Ice",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/TrundleCircle.png"
+        },
+        "R": {
+            "name": "Subjugate",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/TrundlePain.png"
+        }
+    },
+    "Tryndamere": {
+        "Passive": {
+            "name": "Battle Fury",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Tryndamere_Passive.png"
+        },
+        "Q": {
+            "name": "Bloodlust",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/TryndamereQ.png"
+        },
+        "W": {
+            "name": "Mocking Shout",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/TryndamereW.png"
+        },
+        "E": {
+            "name": "Spinning Slash",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/TryndamereE.png"
+        },
+        "R": {
+            "name": "Undying Rage",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/UndyingRage.png"
+        }
+    },
+    "Twisted Fate": {
+        "Passive": {
+            "name": "Loaded Dice",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Cardmaster_SealFate.png"
+        },
+        "Q": {
+            "name": "Wild Cards",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/WildCards.png"
+        },
+        "W": {
+            "name": "Pick a Card",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/PickACard.png"
+        },
+        "E": {
+            "name": "Stacked Deck",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/CardmasterStack.png"
+        },
+        "R": {
+            "name": "Destiny",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/Destiny.png"
+        }
+    },
+    "Twitch": {
+        "Passive": {
+            "name": "Deadly Venom",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Twitch_Passive.png"
+        },
+        "Q": {
+            "name": "Ambush",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/TwitchHideInShadows.png"
+        },
+        "W": {
+            "name": "Venom Cask",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/TwitchVenomCask.png"
+        },
+        "E": {
+            "name": "Contaminate",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/TwitchExpunge.png"
+        },
+        "R": {
+            "name": "Spray and Pray",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/TwitchFullAutomatic.png"
+        }
+    },
+    "Udyr": {
+        "Passive": {
+            "name": "Bridge Between",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Udyr_P.png"
+        },
+        "Q": {
+            "name": "Wilding Claw",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/UdyrQ.png"
+        },
+        "W": {
+            "name": "Iron Mantle",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/UdyrW.png"
+        },
+        "E": {
+            "name": "Blazing Stampede",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/UdyrE.png"
+        },
+        "R": {
+            "name": "Wingborne Storm",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/UdyrR.png"
+        }
+    },
+    "Urgot": {
+        "Passive": {
+            "name": "Echoing Flames",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Urgot_Passive.png"
+        },
+        "Q": {
+            "name": "Corrosive Charge",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/UrgotQ.png"
+        },
+        "W": {
+            "name": "Purge",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/UrgotW.png"
+        },
+        "E": {
+            "name": "Disdain",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/UrgotE.png"
+        },
+        "R": {
+            "name": "Fear Beyond Death",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/UrgotR.png"
+        }
+    },
+    "Varus": {
+        "Passive": {
+            "name": "Living Vengeance",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/VarusPassive.png"
+        },
+        "Q": {
+            "name": "Piercing Arrow",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/VarusQ.png"
+        },
+        "W": {
+            "name": "Blighted Quiver",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/VarusW.png"
+        },
+        "E": {
+            "name": "Hail of Arrows",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/VarusE.png"
+        },
+        "R": {
+            "name": "Chain of Corruption",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/VarusR.png"
+        }
+    },
+    "Vayne": {
+        "Passive": {
+            "name": "Night Hunter",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Vayne_NightHunter.png"
+        },
+        "Q": {
+            "name": "Tumble",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/VayneTumble.png"
+        },
+        "W": {
+            "name": "Silver Bolts",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/VayneSilveredBolts.png"
+        },
+        "E": {
+            "name": "Condemn",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/VayneCondemn.png"
+        },
+        "R": {
+            "name": "Final Hour",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/VayneInquisition.png"
+        }
+    },
+    "Veigar": {
+        "Passive": {
+            "name": "Phenomenal Evil Power",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/VeigarEntropy.png"
+        },
+        "Q": {
+            "name": "Baleful Strike",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/VeigarBalefulStrike.png"
+        },
+        "W": {
+            "name": "Dark Matter",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/VeigarDarkMatter.png"
+        },
+        "E": {
+            "name": "Event Horizon",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/VeigarEventHorizon.png"
+        },
+        "R": {
+            "name": "Primordial Burst",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/VeigarR.png"
+        }
+    },
+    "Vel'Koz": {
+        "Passive": {
+            "name": "Organic Deconstruction",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/VelKoz_Passive.png"
+        },
+        "Q": {
+            "name": "Plasma Fission",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/VelkozQ.png"
+        },
+        "W": {
+            "name": "Void Rift",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/VelkozW.png"
+        },
+        "E": {
+            "name": "Tectonic Disruption",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/VelkozE.png"
+        },
+        "R": {
+            "name": "Life Form Disintegration Ray",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/VelkozR.png"
+        }
+    },
+    "Vex": {
+        "Passive": {
+            "name": "Doom 'n Gloom",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Icons_Vex_Passive.png"
+        },
+        "Q": {
+            "name": "Mistral Bolt",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/VexQ.png"
+        },
+        "W": {
+            "name": "Personal Space",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/VexW.png"
+        },
+        "E": {
+            "name": "Looming Darkness",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/VexE.png"
+        },
+        "R": {
+            "name": "Shadow Surge",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/VexR.png"
+        }
+    },
+    "Vi": {
+        "Passive": {
+            "name": "Blast Shield",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/ViPassive.png"
+        },
+        "Q": {
+            "name": "Vault Breaker",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ViQ.png"
+        },
+        "W": {
+            "name": "Denting Blows",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ViW.png"
+        },
+        "E": {
+            "name": "Relentless Force",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ViE.png"
+        },
+        "R": {
+            "name": "Cease and Desist",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ViR.png"
+        }
+    },
+    "Viego": {
+        "Passive": {
+            "name": "Sovereign's Domination",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Viego_Passive.png"
+        },
+        "Q": {
+            "name": "Blade of the Ruined King",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ViegoQ.png"
+        },
+        "W": {
+            "name": "Spectral Maw",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ViegoW.png"
+        },
+        "E": {
+            "name": "Harrowed Path",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ViegoE.png"
+        },
+        "R": {
+            "name": "Heartbreaker",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ViegoR.png"
+        }
+    },
+    "Viktor": {
+        "Passive": {
+            "name": "Glorious Evolution",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Viktor_Passive.png"
+        },
+        "Q": {
+            "name": "Siphon Power",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ViktorPowerTransfer.png"
+        },
+        "W": {
+            "name": "Gravity Field",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ViktorGravitonField.png"
+        },
+        "E": {
+            "name": "Death Ray",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ViktorDeathRay.png"
+        },
+        "R": {
+            "name": "Chaos Storm",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ViktorChaosStorm.png"
+        }
+    },
+    "Vladimir": {
+        "Passive": {
+            "name": "Crimson Pact",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/VladimirP.png"
+        },
+        "Q": {
+            "name": "Transfusion",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/VladimirQ.png"
+        },
+        "W": {
+            "name": "Sanguine Pool",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/VladimirSanguinePool.png"
+        },
+        "E": {
+            "name": "Tides of Blood",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/VladimirE.png"
+        },
+        "R": {
+            "name": "Hemoplague",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/VladimirHemoplague.png"
+        }
+    },
+    "Volibear": {
+        "Passive": {
+            "name": "The Relentless Storm",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Volibear_Icon_P.png"
+        },
+        "Q": {
+            "name": "Thundering Smash",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/VolibearQ.png"
+        },
+        "W": {
+            "name": "Frenzied Maul",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/VolibearW.png"
+        },
+        "E": {
+            "name": "Sky Splitter",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/VolibearE.png"
+        },
+        "R": {
+            "name": "Stormbringer",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/VolibearR.png"
+        }
+    },
+    "Warwick": {
+        "Passive": {
+            "name": "Eternal Hunger",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/WarwickP.png"
+        },
+        "Q": {
+            "name": "Jaws of the Beast",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/WarwickQ.png"
+        },
+        "W": {
+            "name": "Blood Hunt",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/WarwickW.png"
+        },
+        "E": {
+            "name": "Primal Howl",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/WarwickE.png"
+        },
+        "R": {
+            "name": "Infinite Duress",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/WarwickR.png"
+        }
+    },
+    "Xayah": {
+        "Passive": {
+            "name": "Clean Cuts",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/XayahPassive.png"
+        },
+        "Q": {
+            "name": "Double Daggers",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/XayahQ.png"
+        },
+        "W": {
+            "name": "Deadly Plumage",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/XayahW.png"
+        },
+        "E": {
+            "name": "Bladecaller",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/XayahE.png"
+        },
+        "R": {
+            "name": "Featherstorm",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/XayahR.png"
+        }
+    },
+    "Xerath": {
+        "Passive": {
+            "name": "Mana Surge",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Xerath_Passive1.png"
+        },
+        "Q": {
+            "name": "Arcanopulse",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/XerathArcanopulseChargeUp.png"
+        },
+        "W": {
+            "name": "Eye of Destruction",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/XerathArcaneBarrage2.png"
+        },
+        "E": {
+            "name": "Shocking Orb",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/XerathMageSpear.png"
+        },
+        "R": {
+            "name": "Rite of the Arcane",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/XerathLocusOfPower2.png"
+        }
+    },
+    "Xin Zhao": {
+        "Passive": {
+            "name": "Determination",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/XinZhaoP.png"
+        },
+        "Q": {
+            "name": "Three Talon Strike",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/XinZhaoQ.png"
+        },
+        "W": {
+            "name": "Wind Becomes Lightning",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/XinZhaoW.png"
+        },
+        "E": {
+            "name": "Audacious Charge",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/XinZhaoE.png"
+        },
+        "R": {
+            "name": "Crescent Guard",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/XinZhaoR.png"
+        }
+    },
+    "Yasuo": {
+        "Passive": {
+            "name": "Way of the Wanderer",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Yasuo_Passive.png"
+        },
+        "Q": {
+            "name": "Steel Tempest",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/YasuoQ1Wrapper.png"
+        },
+        "W": {
+            "name": "Wind Wall",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/YasuoW.png"
+        },
+        "E": {
+            "name": "Sweeping Blade",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/YasuoE.png"
+        },
+        "R": {
+            "name": "Last Breath",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/YasuoR.png"
+        }
+    },
+    "Yone": {
+        "Passive": {
+            "name": "Way of the Hunter",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/YonePassive.png"
+        },
+        "Q": {
+            "name": "Mortal Steel",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/YoneQ.png"
+        },
+        "W": {
+            "name": "Spirit Cleave",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/YoneW.png"
+        },
+        "E": {
+            "name": "Soul Unbound",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/YoneE.png"
+        },
+        "R": {
+            "name": "Fate Sealed",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/YoneR.png"
+        }
+    },
+    "Yorick": {
+        "Passive": {
+            "name": "Shepherd of Souls",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Yorick_P.png"
+        },
+        "Q": {
+            "name": "Last Rites",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/YorickQ.png"
+        },
+        "W": {
+            "name": "Dark Procession",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/YorickW.png"
+        },
+        "E": {
+            "name": "Mourning Mist",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/YorickE.png"
+        },
+        "R": {
+            "name": "Eulogy of the Isles",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/YorickR.png"
+        }
+    },
+    "Yuumi": {
+        "Passive": {
+            "name": "Feline Friendship",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/YuumiP.png"
+        },
+        "Q": {
+            "name": "Prowling Projectile",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/YuumiQ.png"
+        },
+        "W": {
+            "name": "You and Me!",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/YuumiW.png"
+        },
+        "E": {
+            "name": "Zoomies",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/YuumiE.png"
+        },
+        "R": {
+            "name": "Final Chapter",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/YuumiR.png"
+        }
+    },
+    "Zac": {
+        "Passive": {
+            "name": "Cell Division",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/ZacPassive.png"
+        },
+        "Q": {
+            "name": "Stretching Strikes",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ZacQ.png"
+        },
+        "W": {
+            "name": "Unstable Matter",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ZacW.png"
+        },
+        "E": {
+            "name": "Elastic Slingshot",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ZacE.png"
+        },
+        "R": {
+            "name": "Let's Bounce!",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ZacR.png"
+        }
+    },
+    "Zed": {
+        "Passive": {
+            "name": "Contempt for the Weak",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/ZedP.png"
+        },
+        "Q": {
+            "name": "Razor Shuriken",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ZedQ.png"
+        },
+        "W": {
+            "name": "Living Shadow",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ZedW.png"
+        },
+        "E": {
+            "name": "Shadow Slash",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ZedE.png"
+        },
+        "R": {
+            "name": "Death Mark",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ZedR.png"
+        }
+    },
+    "Zeri": {
+        "Passive": {
+            "name": "Living Battery",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/ZeriP.png"
+        },
+        "Q": {
+            "name": "Burst Fire",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ZeriQ.png"
+        },
+        "W": {
+            "name": "Ultrashock Laser",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ZeriW.png"
+        },
+        "E": {
+            "name": "Spark Surge",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ZeriE.png"
+        },
+        "R": {
+            "name": "Lightning Crash",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ZeriR.png"
+        }
+    },
+    "Ziggs": {
+        "Passive": {
+            "name": "Short Fuse",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/ZiggsPassiveReady.png"
+        },
+        "Q": {
+            "name": "Bouncing Bomb",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ZiggsQ.png"
+        },
+        "W": {
+            "name": "Satchel Charge",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ZiggsW.png"
+        },
+        "E": {
+            "name": "Hexplosive Minefield",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ZiggsE.png"
+        },
+        "R": {
+            "name": "Mega Inferno Bomb",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ZiggsR.png"
+        }
+    },
+    "Zilean": {
+        "Passive": {
+            "name": "Time In A Bottle",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Zilean_Passive.png"
+        },
+        "Q": {
+            "name": "Time Bomb",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ZileanQ.png"
+        },
+        "W": {
+            "name": "Rewind",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ZileanW.png"
+        },
+        "E": {
+            "name": "Time Warp",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/TimeWarp.png"
+        },
+        "R": {
+            "name": "Chronoshift",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ChronoShift.png"
+        }
+    },
+    "Zoe": {
+        "Passive": {
+            "name": "More Sparkles!",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Zoe_P.png"
+        },
+        "Q": {
+            "name": "Paddle Star!",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ZoeQ.png"
+        },
+        "W": {
+            "name": "Spell Thief",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ZoeW.png"
+        },
+        "E": {
+            "name": "Sleepy Trouble Bubble",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ZoeE.png"
+        },
+        "R": {
+            "name": "Portal Jump",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ZoeR.png"
+        }
+    },
+    "Zyra": {
+        "Passive": {
+            "name": "Garden of Thorns",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/ZyraP.png"
+        },
+        "Q": {
+            "name": "Deadly Spines",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ZyraQ.png"
+        },
+        "W": {
+            "name": "Rampant Growth",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ZyraW.png"
+        },
+        "E": {
+            "name": "Grasping Roots",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ZyraE.png"
+        },
+        "R": {
+            "name": "Stranglethorns",
+            "icon": "https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ZyraR.png"
+        }
+    }
+}
